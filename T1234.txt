@@ -15,4 +15,8 @@ JK
 AAAA
 VVVV
 WWW
+<<<<<<< HEAD
 XXX
+=======
+MMM
+>>>>>>> HHHH
