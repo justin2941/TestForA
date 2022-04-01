@@ -4,19 +4,4 @@ GH1
 GH2
 ====
 ZZ1
-ZZ2
-MA01
-MA02
-FGG
-9999
-99992
-=======
-JK
-AAAA
-VVVV
-WWW
-<<<<<<< HEAD
-XXX
-=======
-MMM
->>>>>>> HHHH
+DDD
