@@ -16,3 +16,4 @@ Man
 woman
 Zero
 NB
+NB2
