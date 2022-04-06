@@ -15,6 +15,11 @@ XXX
 Man
 woman
 Zero
+<<<<<<< HEAD
 Zero2
 NB
 NB2
+=======
+NB
+NB2
+>>>>>>> ff615cb835114372f6b6ca0d7dd1d80889531bdd
